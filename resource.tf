@@ -12,7 +12,7 @@ variable "name" {
 }
 
 variable "nw-name" {
-  default = "gagan-net"
+  default = "adarsh-net"
 }
 
 
